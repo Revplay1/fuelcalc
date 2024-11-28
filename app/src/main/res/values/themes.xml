@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme for full screen -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item> <!-- Fullscreen mode -->
+    </style>
+
+    <!-- Customize FuelCalc Theme if needed -->
+    <style name="Theme.FuelCalc" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- You can define full-screen properties here as well if needed -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
