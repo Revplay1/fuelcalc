@@ -14,6 +14,6 @@ class ResultActivity : AppCompatActivity() {
         val fuelCost = intent.getDoubleExtra("FUEL_COST", 0.0)
         val tvResult = findViewById<TextView>(R.id.tvResult)
 
-        tvResult.text = "Fuel Cost: $fuelCost"
+        tvResult.text = "$fuelCost"
     }
 }
