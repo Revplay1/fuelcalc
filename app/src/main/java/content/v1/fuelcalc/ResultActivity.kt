@@ -15,5 +15,8 @@ class ResultActivity : AppCompatActivity() {
         val tvResult = findViewById<TextView>(R.id.tvResult)
 
         tvResult.text = "$fuelCost"
+
     }
+
+
 }
