@@ -1,5 +1,5 @@
-# Calculadora IMC
-Calculadora IMC (BMI Calculator) is a simple yet effective app designed to calculate the Body Mass Index (IMC - Índice de Massa Corporal) based on user-provided weight and height. Kotlin Native App
+# FuelCalc
+FuelCalc is a simple and efficient app that helps you calculate fuel costs for your trips. Enter the distance and fuel price, and get instant results to plan it better / Kotlin Native App
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
